@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700" rel="stylesheet">
+
     <title>Stream</title>
     <style>
         * {
@@ -13,14 +15,17 @@
             padding: 0px;
         }
         body {
-            min-height: 100vh;
-            width: 100vw;
+            min-height: 90vh;
+            width: 90vw;
+            margin: 80px auto 0;
             padding: 20px;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            font-family: 'Courier New', Courier, monospace;
+            font-family: 'Rajdhani', sans-serif;
+            background: #111;
+            color: #fff;
         }
 
         h1, h2, h3 {
@@ -30,11 +35,9 @@
 
         .video-container {
             position: relative;
-            padding-bottom: 56.25%;
-            /* padding-top: 30px; */
-            height: 0;
+            height: 360px;
             width: 100%;
-            /* max-width: 560px; */
+            max-width: 560px;
             overflow: hidden;
             background-color: black;
         }
@@ -46,11 +49,36 @@
             width: 100%;
 	        height: 100%;
         }
+        .logo svg {
+            max-width: 300px;
+        }
 
         /* .video.co */
     </style>
 </head>
 <body>
+    <div class="logo">
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+     x="0px" y="0px" width="545px" height="118.6px" viewBox="0 0 545 118.6" style="enable-background:new 0 0 545 118.6;"
+     xml:space="preserve">
+<style type="text/css">
+    .st0{fill:#FFFFFF;}
+</style>
+<defs>
+</defs>
+<g>
+    <path class="st0" d="M25.5,88.9L0,67.6v-38h88.9v29.6H62.7l26.2,21.3v38H0V88.9H25.5z M29.6,59.1v29.7H59V59.1H29.6z"/>
+    <path class="st0" d="M128.7,0v29.7h17.1v29.6h-17.1v29.4h17.1v29.6H99.2V0H128.7z"/>
+    <path class="st0" d="M155.9,118.6V29.9h50.7v29.6h-21.1v59.1H155.9z"/>
+    <path class="st0" d="M216.9,118.4V29.7h88.7v35.6l-25.7,23.5h25.7v29.6H216.9z M276,88.9V59.5h-29.7v29.4H276z"/>
+    <path class="st0" d="M404.9,29.6v88.9l-88.9,0.2V84.8l27.9-25.7h-27.9V29.6H404.9z M346,59.1v29.7h29.2V59.1H346z"/>
+    <path class="st0" d="M465,59.3h-20.8v59.1h-29.6V30.1h29.6v25l20.8-25h29.6v25l20.8-25H545v88.4h-29.6V59.3h-20.8v59.1H465V59.3z"/>
+</g>
+</svg>
+
+
+    </div>
     <h1>Welcome to the Stream Zone!</h1>
     <h2>Fall 2018</h2>
     <div class="video-container">
