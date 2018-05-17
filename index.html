@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="google-site-verification" content="SwwpuLsHPrvTQfbMCgIg5Cf8MeccKMH9Skem-JpNHko" />
-    <link href="https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:200,300,400,600,700" rel="stylesheet">
 
     <title>Stream</title>
     <style>
@@ -16,22 +16,20 @@
             padding: 0px;
         }
         body {
-            min-height: 90vh;
-            width: 90vw;
-            margin: 80px auto 0;
-            padding: 20px;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            font-family: 'Rajdhani', sans-serif;
-            background: #111;
+            font-family: 'Helvetica Neue', Helvetica, sans-serif;
+            background: #3a2949;
             color: #fff;
         }
 
         h1, h2, h3 {
             text-align: center;
             padding: 20px;
+            font-family: 'IBM Plex Mono', monospace;
+            font-weight: 800;
         }
 
         .video-container {
@@ -44,47 +42,91 @@
         }
 
         .video-container iframe {
-            position: absolute;
+          position: absolute;
 	        top: 0;
 	        left: 0;
-            width: 100%;
+          width: 100%;
 	        height: 100%;
         }
-        .logo svg {
-            max-width: 300px;
+
+        header {
+          background-color: #2f213a;
+          background-image: url('img/header-bg.jpg');
+          background-position: center center;
+          background-size: cover;
+          height: 80vh;
+          width: 100%;
+        }
+        header .logo {
+            width: 480px;
+            margin: 0 auto;
+            margin-top: 35vh;
+        }
+        .logo .brandlogo {
+          width: 100%;
+        }
+
+        #content {
+          width: 100%;
+          max-width: 560px;
+          text-align: center;
+          padding-bottom: 80px;
+        }
+
+
+        h1 {
+          color: #f4e2a0;
+        }
+
+        footer {
+          padding: 120px 0;
+          background: #62396b;
+          width: 100%;
+          text-align: center;
+          color: white;
+        }
+
+        footer a {
+          color: #f4e2a0;
+          text-decoration: none;
+        }
+
+        footer a.btn {
+          background: #f4e2a0;
+          color: #3a2949;
+          padding: 18px 34px;
+          border-radius: 3em;
+          text-transform: uppercase;
+          font-family: 'IBM Plex Mono', monospace;
+          font-weight: 800;
+          display: inline-block;
+          transition: all ease 0.2s;
+        }
+
+        footer a.btn:hover {
+          background: #3a2949;
+          color: #f4e2a0;
         }
 
         /* .video.co */
     </style>
 </head>
 <body>
-    <div class="logo">
-<svg version="1.1"
-     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-     x="0px" y="0px" width="545px" height="118.6px" viewBox="0 0 545 118.6" style="enable-background:new 0 0 545 118.6;"
-     xml:space="preserve">
-<style type="text/css">
-    .st0{fill:#FFFFFF;}
-</style>
-<defs>
-</defs>
-<g>
-    <path class="st0" d="M25.5,88.9L0,67.6v-38h88.9v29.6H62.7l26.2,21.3v38H0V88.9H25.5z M29.6,59.1v29.7H59V59.1H29.6z"/>
-    <path class="st0" d="M128.7,0v29.7h17.1v29.6h-17.1v29.4h17.1v29.6H99.2V0H128.7z"/>
-    <path class="st0" d="M155.9,118.6V29.9h50.7v29.6h-21.1v59.1H155.9z"/>
-    <path class="st0" d="M216.9,118.4V29.7h88.7v35.6l-25.7,23.5h25.7v29.6H216.9z M276,88.9V59.5h-29.7v29.4H276z"/>
-    <path class="st0" d="M404.9,29.6v88.9l-88.9,0.2V84.8l27.9-25.7h-27.9V29.6H404.9z M346,59.1v29.7h29.2V59.1H346z"/>
-    <path class="st0" d="M465,59.3h-20.8v59.1h-29.6V30.1h29.6v25l20.8-25h29.6v25l20.8-25H545v88.4h-29.6V59.3h-20.8v59.1H465V59.3z"/>
-</g>
-</svg>
-
-
-    </div>
-    <h1>Welcome to the Stream Zone!</h1>
-    <h2>Fall 2018</h2>
-    <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/WaMHp0adj8k?rel=0" frameborder="0" autoplay="true" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
-    <h3>Stay tuned...</h3>
+    <header>
+      <div class="logo">
+        <img src="img/stream-logo-nega.svg" class="brandlogo" alt="">
+      </div>
+    </header>
+    <section id="content">
+      <h1>Welcome to the Stream Zone!</h1>
+      <h2>Fall 2018</h2>
+      <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/WaMHp0adj8k?rel=0" frameborder="0" autoplay="true" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+      <h3>Stay tuned...</h3>
+    </section>
+    <footer>
+      <a href="mailto:sales@streamfestival.org" class="btn">Contact us</a>
+    </footer>
 </body>
 </html>
