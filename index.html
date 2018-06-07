@@ -1,133 +1,201 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
     <meta name="google-site-verification" content="SwwpuLsHPrvTQfbMCgIg5Cf8MeccKMH9Skem-JpNHko" />
+
+    <title>Stream Festival</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:200,300,400,600,700" rel="stylesheet">
 
-    <title>Stream</title>
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0px;
-            border: none;
-            padding: 0px;
-        }
-        body {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            font-family: 'Helvetica Neue', Helvetica, sans-serif;
-            background: #3a2949;
-            color: #fff;
-        }
+    <!-- Custom styles for this template -->
+    <link href="css/stream.css" rel="stylesheet">
 
-        h1, h2, h3 {
-            text-align: center;
-            padding: 20px;
-            font-family: 'IBM Plex Mono', monospace;
-            font-weight: 800;
-        }
+  </head>
 
-        .video-container {
-            position: relative;
-            height: 360px;
-            width: 100%;
-            max-width: 560px;
-            overflow: hidden;
-            background-color: black;
-        }
+  <body id="page-top">
 
-        .video-container iframe {
-          position: absolute;
-	        top: 0;
-	        left: 0;
-          width: 100%;
-	        height: 100%;
-        }
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Stream Festival</a>
+        <!--<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#program">Program</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#sponsors">Sponsors</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>-->
+      </div>
+    </nav>
 
-        header {
-          background-color: #2f213a;
-          background-image: url('img/header-bg.jpg');
-          background-position: center center;
-          background-size: cover;
-          height: 80vh;
-          width: 100%;
-        }
-        header .logo {
-            width: 480px;
-            max-width: 80%;
-            margin: 0 auto;
-            margin-top: 35vh;
-        }
-        .logo .brandlogo {
-          width: 100%;
-        }
+    <header class="masthead text-center text-white d-flex">
+      <div class="container my-auto">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <h1 class="text-uppercase">
+              <img src="img/stream-logo-nega.svg" class="logo" alt="">
+            </h1>
+            <hr>
+          </div>
+          <div class="col-lg-8 mx-auto">
 
-        #content {
-          width: 100%;
-          max-width: 560px;
-          text-align: center;
-          padding-bottom: 80px;
-        }
-
-
-        h1 {
-          color: #f4e2a0;
-        }
-
-        footer {
-          padding: 120px 0;
-          background: #62396b;
-          width: 100%;
-          text-align: center;
-          color: white;
-        }
-
-        footer a {
-          color: #f4e2a0;
-          text-decoration: none;
-        }
-
-        footer a.btn {
-          background: #f4e2a0;
-          color: #3a2949;
-          padding: 18px 34px;
-          border-radius: 3em;
-          text-transform: uppercase;
-          font-family: 'IBM Plex Mono', monospace;
-          font-weight: 800;
-          display: inline-block;
-          transition: all ease 0.2s;
-        }
-
-        footer a.btn:hover {
-          background: #3a2949;
-          color: #f4e2a0;
-        }
-
-        /* .video.co */
-    </style>
-</head>
-<body>
-    <header>
-      <div class="logo">
-        <img src="img/stream-logo-nega.svg" class="brandlogo" alt="">
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+          </div>
+        </div>
       </div>
     </header>
-    <section id="content">
-      <h1>Welcome to the Stream Zone!</h1>
-      <h2>Fall 2018</h2>
-      <div class="video-container">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/WaMHp0adj8k?rel=0" frameborder="0" autoplay="true" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+    <section class="bg-header" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="text-white">9.10.2018<br>Tampere, Hiedanranta</h2>
+            <hr class="light my-4">
+            <p class="text-faded mb-4">Save the date and keep your eyes and ears open for something new and totally fresh in the startup scene in Finland. </p>
+          </div>
+        </div>
       </div>
-      <h3>Stay tuned...</h3>
     </section>
+
+    <section class="bg-primary" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="section-heading text-center text-white">What?</h2>
+            <hr class="light my-4">
+            <p>Tribe Tampere has brought the Tampere region startup ecosystem together and produced a sequence of great events from TribeX to Startup World Cup that was held this April 2018 in Pakkahuone. The winner of Startup World Cup pitching competition went to represent Finland in the San Francisco’s Grand Finale and competed for the US $1,000,000 prize in investment. Next in line for Tampere is the biggest startup event so far, Stream.</p>
+            <p>Stream brings the investors and startups together for an more interactive learning and coaching experience at the unique old brick factory in Hiedanranta, Tampere. This one day event is full of meaningful networking with your peers and interest groups. You can choose the right workshops to help you improve in needed areas.</p>
+            <p>Stream will pre-screen the startup attendees with a totally new kind of screening system done in cooperation with angel investors and psychologists. This will help investors to evaluate the team better and make better investment decisions. Startups can use this as a validation and furthermore see the areas which they can focus and improve.</p>
+            <p>There will be workshops on how to evaluate startups better in order to make better investments as well as how to build a successful startup team and improve your company selling processes.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="program">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Program</h2>
+            <hr class="my-4">
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8 m-auto">
+            <img src="img/program.png" alt="Program" class="img-responsive">
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section id="spacer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading text-white">Tickets will be here!</h2>
+            <!--<hr class="light my-4">
+            <p class="text-faded mb-4">Coming soon!</p>
+            <a class="btn btn-light btn-xl" href="#">Startup</a>
+            <a class="btn btn-light btn-xl" href="#">Investor</a>-->
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+<!--
+    <section class="p-0" id="sponsors">
+      <div class="container-fluid p-0">
+        <h1 class="text-center">Our Sponsors</h1>
+        <div class="row no-gutters text-center">
+          <div class="col-lg-4 col-sm-6 sponsor-item">
+            <img src="img/sponsors/sponsor1.jpg" alt="">
+          </div>
+          <div class="col-lg-4 col-sm-6 sponsor-item">
+            <img src="img/sponsors/sponsor1.jpg" alt="">
+          </div>
+          <div class="col-lg-4 col-sm-6 sponsor-item">
+            <img src="img/sponsors/sponsor1.jpg" alt="">
+          </div>
+          <div class="col-lg-4 col-sm-6 sponsor-item">
+            <img src="img/sponsors/sponsor1.jpg" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+-->
+
+    <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading">Let's Get In Touch!</h2>
+            <hr class="my-4">
+            <p class="mb-5">Anything on your mind?</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 m-auto text-center">
+            <h3>Program team</h3>
+            <p>
+              <a href="mailto:info@streamfestival.org">program@streamfestival.org</a>
+            </p>
+          </div>
+          <div class="col-lg-4 m-auto text-center">
+            <h3>Sales team</h3>
+            <p>
+              <a href="mailto:info@streamfestival.org">sales@streamfestival.org</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <footer>
-      <a href="mailto:sales@streamfestival.org" class="btn">Contact us</a>
+      <img src="img/stream-logo-nega.svg" class="logo" alt="">
     </footer>
-</body>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/creative.min.js"></script>
+
+  </body>
+
 </html>
