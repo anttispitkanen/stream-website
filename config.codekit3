@@ -9,18 +9,11 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/.gitignore": {
+	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/.gitignore",
-		"oF": 0
-		},
-	"\/.travis.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/.travis.yml",
+		"oAP": "\/CNAME",
 		"oF": 0
 		},
 	"\/css\/stream.css": {
@@ -32,6 +25,30 @@
 		"oAP": "\/css\/stream-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/dreamteam\/contact_me.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dreamteam\/contact_me-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/dreamteam\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dreamteam\/index.html",
+		"oF": 0
+		},
+	"\/dreamteam\/lomake.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dreamteam\/lomake.html",
+		"oF": 0
 		},
 	"\/gulpfile.js": {
 		"ft": 64,
@@ -197,6 +214,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/program.png": {
+		"ft": 32768,
+		"iS": 43680,
+		"oA": 0,
+		"oAP": "\/img\/program.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/sponsors\/sponsor1.jpg": {
 		"ft": 16384,
 		"iS": 2442,
@@ -245,13 +273,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/LICENSE": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/LICENSE",
-		"oF": 0
-		},
 	"\/node_modules": {
 		"ft": 65536,
 		"oA": 2,
@@ -273,24 +294,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/stylus\/_creative.styl": {
 		"aP": 0,
@@ -1132,7 +1135,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 547399208,
-	"displayValue": "stream",
+	"displayValue": "stream-website",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-hart",
 	"iconImageWasSetByUser": 0

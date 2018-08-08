@@ -33,13 +33,16 @@ h6 {
   font-weight: 800;
 }
 .bg-primary {
-  background-color: #bd316c !important;
+  background-color: #f77a2c !important;
 }
 .bg-header {
-  background-color: #392a49 !important;
+  background-color: #000 !important;
 }
 .bg-dark {
   background-color: #212529 !important;
+}
+.bg-dark a {
+  color: #f77a2c;
 }
 .text-faded {
   color: rgba(255,255,255,0.7);
@@ -261,14 +264,14 @@ header.masthead p {
   padding: 1rem 2rem;
 }
 .btn-primary {
-  background-color: #bd316c;
+  background-color: #f77a2c;
   border-color: #f05f40;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
   color: #fff;
-  background-color: #62396b;
+  background-color: #000;
 }
 .btn-primary:active,
 .btn-primary:focus {
@@ -307,7 +310,7 @@ h2.section-heading {
   }
 }
 footer {
-  background: #3a2949;
+  background: #1c1613;
   width: 100%;
   display: block;
   text-align: center;
@@ -336,7 +339,7 @@ footer img {
   background-position: center center;
 }
 #mainNav.navbar-shrink {
-  background: #3a2949;
+  background: #1c1613;
   color: #fff;
 }
 #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
