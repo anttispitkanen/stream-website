@@ -55,12 +55,12 @@ section {
 }
 ::-moz-selection {
   color: #fff;
-  background: #212529;
+  background: #f77a2c;
   text-shadow: none;
 }
 ::selection {
   color: #fff;
-  background: #212529;
+  background: #f77a2c;
   text-shadow: none;
 }
 img::selection {
@@ -267,6 +267,10 @@ header.masthead p {
   background-color: #f77a2c;
   border-color: #f05f40;
 }
+.btn-readmore {
+  background-color: transparent;
+  border: solid 2px #f05f40;
+}
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
@@ -276,6 +280,17 @@ header.masthead p {
 .btn-primary:active,
 .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240,95,64,0.5) !important;
+}
+.box {
+  border: solid 2px #f77a2c;
+  padding: 1em;
+  margin: 1em 0 2em;
+}
+@media (min-width: 768px) {
+  .box {
+    padding: 2em;
+    margin: 2em 0;
+  }
 }
 .masthead .logo {
   width: 70%;

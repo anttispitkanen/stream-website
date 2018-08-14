@@ -57,13 +57,13 @@ section
 
 ::-moz-selection
   color: #fff;
-  background: #212529;
+  background: color-primary;
   text-shadow: none;
 
 
 ::selection
   color: #fff;
-  background: #212529;
+  background: color-primary;
   text-shadow: none;
 
 
@@ -289,6 +289,10 @@ header.masthead p
   background-color: color-primary;
   border-color: #F05F40;
 
+.btn-readmore
+  background-color: transparent;
+  border: solid 2px #F05F40;
+
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active
   color: #fff;
@@ -297,3 +301,12 @@ header.masthead p
 
 .btn-primary:active, .btn-primary:focus
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+
+
+.box
+  border: solid 2px color-primary
+  padding: 1em
+  margin: 1em 0 2em
+  @media(min-width: 768px)
+    padding: 2em
+    margin: 2em 0
