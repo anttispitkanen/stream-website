@@ -292,6 +292,15 @@ header.masthead p {
     margin: 2em 0;
   }
 }
+.white {
+  color: #fff;
+}
+.mt-40 {
+  margin-top: 40px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
 .masthead .logo {
   width: 70%;
   max-width: 500px;
@@ -300,12 +309,56 @@ header.masthead p {
 .img-responsive {
   max-width: 100%;
 }
-#spacer {
+#tickets {
   background-image: url("../img/photo-1.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  font-family: 'IBM Plex Mono', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.9rem;
+}
+#tickets .spacer {
+  height: 60px;
+  clear: both;
+}
+#tickets .card {
+  color: #fff;
+  background: rgba(0,0,0,0.8);
+  border: 2px solid #f77a2c;
+  border-radius: 0;
+  padding-top: 2em;
+}
+#tickets .card ul.list-group li {
+  background: #000;
+  border: 1px solid #a24206;
+}
+#tickets .price {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #f77a2c;
+}
+#tickets h4 {
+  text-transform: uppercase;
+  color: #dedede;
+}
+#tickets h5 {
+  font-size: 0.9rem;
+  margin-top: -7px;
+  text-transform: uppercase;
+  color: #f77a2c;
+}
+#tickets .btn-buy {
+  font-family: 'IBM Plex Mono', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: 1px;
+  background: rgba(0,0,0,0.9);
+  border: 1px solid #f77a2c;
+  display: block;
+  border-radius: 0;
+  color: #fff;
+}
+#tickets .btn-buy:hover {
+  background: rgba(40,40,40,0.9);
 }
 #sponsors {
   margin-top: 120px;

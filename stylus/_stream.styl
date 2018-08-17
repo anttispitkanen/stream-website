@@ -1,6 +1,14 @@
 // font
 
 
+.white
+  color: white
+
+.mt-40
+  margin-top: 40px
+.mt-30
+  margin-top: 30px
+
 .masthead .logo
   width: 70%
   max-width: 500px
@@ -10,12 +18,50 @@
 .img-responsive
   max-width: 100%
 
-#spacer
+#tickets
   background-image: url(../img/photo-1.jpg)
   background-position: center center
   background-repeat: no-repeat
   background-size: cover
   background-attachment: fixed
+  font-family: 'IBM Plex Mono', 'Open Sans', 'Helvetica Neue', Arial, sans-serif
+  font-size: .9rem
+  .spacer
+    height: 60px
+    clear: both
+  .card
+    color: white
+    background: rgba(0,0,0,0.8)
+    border: 2px solid color-primary
+    border-radius: 0
+    padding-top: 2em
+    ul.list-group
+      li
+        background: black
+        border: 1px solid lightness(color-primary, 33%)
+  .price
+    font-size: 1.6rem
+    font-weight: 800
+    color: color-primary
+  h4
+    text-transform: uppercase
+    color: #dedede
+  h5
+    font-size: .9rem
+    margin-top: -7px
+    text-transform: uppercase
+    color: color-primary
+  .btn-buy
+    font-family: 'IBM Plex Mono', 'Open Sans', 'Helvetica Neue', Arial, sans-serif
+    letter-spacing: 1px
+    background: rgba(0,0,0,.9)
+    border: 1px solid color-primary
+    display: block
+    border-radius: 0
+    color: white
+    &:hover
+      background: rgba(40,40,40,0.9)
+
 
 
 
