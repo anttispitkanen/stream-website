@@ -390,6 +390,18 @@ footer img {
   margin: 0 auto;
   margin-top: 2em;
 }
+ul.nolist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.program-item-block {
+  padding-left: 2em;
+  margin-top: 2em;
+}
+.program-item-block h5 {
+  color: #f77a2c;
+}
 .navbar-brand {
   font-size: 0;
   display: block;

@@ -26,6 +26,13 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/dealroom\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dealroom\/index.html",
+		"oF": 0
+		},
 	"\/dreamteam\/contact_me.js": {
 		"ft": 64,
 		"ma": 0,
@@ -50,6 +57,13 @@
 		"oAP": "\/dreamteam\/lomake.html",
 		"oF": 0
 		},
+	"\/dreamteamcase\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dreamteamcase\/index.html",
+		"oF": 0
+		},
 	"\/gulpfile.js": {
 		"ft": 64,
 		"ma": 0,
@@ -59,6 +73,17 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/img\/dealroom.png": {
+		"ft": 32768,
+		"iS": 15795,
+		"oA": 0,
+		"oAP": "\/img\/dealroom.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/header-bg.jpg": {
 		"ft": 16384,
@@ -294,6 +319,13 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/program\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/program\/index.html",
+		"oF": 0
 		},
 	"\/stylus\/_creative.styl": {
 		"aP": 0,
