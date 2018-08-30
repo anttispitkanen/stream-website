@@ -250,6 +250,61 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/sponsors\/6aika.png": {
+		"ft": 32768,
+		"iS": 12710,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/6aika.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/cityoftampere.png": {
+		"ft": 32768,
+		"iS": 11898,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/cityoftampere.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/euflag.png": {
+		"ft": 32768,
+		"iS": 12617,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/euflag.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/gylling.png": {
+		"ft": 32768,
+		"iS": 12853,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/gylling.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/leveragefromeu.png": {
+		"ft": 32768,
+		"iS": 23370,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/leveragefromeu.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/sponsors\/sponsor1.jpg": {
 		"ft": 16384,
 		"iS": 2442,
@@ -258,7 +313,72 @@
 		"oAP": "\/img\/sponsors\/sponsor1.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/startuptampere.png": {
+		"ft": 32768,
+		"iS": 29751,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/startuptampere.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/tampere.png": {
+		"ft": 32768,
+		"iS": 26403,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/tampere.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/tampere3.PNG": {
+		"ft": 32768,
+		"iS": 4721,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/tampere3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/tamperesmartcityweek.png": {
+		"ft": 32768,
+		"iS": 15134,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/tamperesmartcityweek.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/tribetampere.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/sponsors\/tribetampere.svg",
+		"oF": 0,
 		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/sponsors\/uudenmaanliitto.png": {
+		"ft": 32768,
+		"iS": 87398,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/uudenmaanliitto.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/stream-logo-nega.svg": {

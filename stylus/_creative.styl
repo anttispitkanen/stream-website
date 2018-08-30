@@ -155,9 +155,10 @@ img::-moz-selection
 
 
 
+
 header.masthead
-  padding-top: 10rem;
-  padding-bottom: calc(10rem - 56px);
+  padding-top: 4rem;
+  padding-bottom: calc(4rem - 56px);
   background-image: url("../img/header-bg.jpg");
   background-position: center center;
   -webkit-background-size: cover;
@@ -165,6 +166,9 @@ header.masthead
   -o-background-size: cover;
   background-size: cover;
 
+.home header.masthead
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
 
 header.masthead hr
   margin-top: 30px;
@@ -187,10 +191,14 @@ header.masthead p
 
 @media (min-width: 992px)
   header.masthead
-    height: 100vh;
-    min-height: 650px;
+    height: 40vh;
+    min-height: 250px;
     padding-top: 0;
     padding-bottom: 0;
+
+  .home header.masthead
+    height: 100vh;
+    min-height: 650px;
 
   header.masthead h1
     font-size: 3rem;
