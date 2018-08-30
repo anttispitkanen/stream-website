@@ -378,7 +378,7 @@ h3 {
   background: rgba(40,40,40,0.9);
 }
 #tickets.ticket-page-tickets {
-  background: #1c1613;
+  background: #000;
 }
 #sponsors {
   margin-top: 120px;
@@ -433,6 +433,25 @@ ul.nolist {
   margin-top: 1em;
   margin-bottom: 3em;
   padding: 1em 3em;
+}
+#socialmedia {
+  background: #000;
+}
+#socialmedia .some-icons {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+#socialmedia .some-icons a {
+  margin: 1.2rem;
+}
+#socialmedia .some-icons a img {
+  width: 40px;
+}
+@media (min-width: 768px) {
+  #socialmedia .some-icons {
+    margin-top: 5px;
+    margin-bottom: 30px;
+  }
 }
 .navbar-brand {
   font-size: 0;
