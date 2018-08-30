@@ -512,6 +512,13 @@
 		"oS": 0,
 		"rrU": 0
 		},
+	"\/tickets\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tickets\/index.html",
+		"oF": 0
+		},
 	"\/vendor\/bootstrap\/css\/bootstrap-grid.css": {
 		"aP": 1,
 		"bl": 0,

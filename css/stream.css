@@ -377,6 +377,9 @@ h3 {
 #tickets .btn-buy:hover {
   background: rgba(40,40,40,0.9);
 }
+#tickets.ticket-page-tickets {
+  background: #1c1613;
+}
 #sponsors {
   margin-top: 120px;
   margin-bottom: 100px;
