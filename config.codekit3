@@ -301,6 +301,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/sponsors\/businessfinland.jpg": {
+		"ft": 16384,
+		"iS": 26128,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/businessfinland.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sponsors\/businesstampere.jpg": {
+		"ft": 16384,
+		"iS": 14310,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/businesstampere.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/sponsors\/cityoftampere.png": {
 		"ft": 32768,
 		"iS": 11898,
@@ -343,6 +365,50 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/mow.jpg": {
+		"ft": 16384,
+		"iS": 20737,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/mow.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sponsors\/numerum.jpg": {
+		"ft": 16384,
+		"iS": 12352,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/numerum.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sponsors\/offsetpalvelu.jpg": {
+		"ft": 16384,
+		"iS": 13183,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/offsetpalvelu.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sponsors\/pirkanmaa.jpg": {
+		"ft": 16384,
+		"iS": 10703,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/pirkanmaa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/sponsors\/sponsor1.jpg": {
@@ -389,6 +455,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/sponsors\/tampereenkauppakamari.jpg": {
+		"ft": 16384,
+		"iS": 14687,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/tampereenkauppakamari.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/sponsors\/tamperesmartcityweek.png": {
 		"ft": 32768,
 		"iS": 15134,
@@ -430,28 +507,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/img\/team\/.alexandra~imageoptim.jpg": {
-		"ft": 16384,
-		"iS": 38395,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/team\/.alexandra~imageoptim.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/team\/.marikataipalus~imageoptim.jpg": {
-		"ft": 16384,
-		"iS": 36841,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/team\/marikataipalus.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/img\/team\/alexandra.jpg": {
 		"ft": 16384,
@@ -517,6 +572,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/team\/team.jpg": {
+		"ft": 16384,
+		"iS": 74550,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/team\/team.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/team\/valtteriperamaki.jpg": {
+		"ft": 16384,
+		"iS": 37251,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/team\/valtteriperamaki.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/index.html": {
