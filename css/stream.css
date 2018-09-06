@@ -523,10 +523,17 @@ ul.nolist {
   position: relative;
   margin-bottom: 30px;
 }
+@media (max-width: 767px) {
+  #speakers .speaker-box {
+    max-width: 280px;
+    margin: 20px auto 20px;
+  }
+}
 #speakers .speaker-box h3 {
   position: absolute;
   bottom: 10px;
   left: 10px;
+  text-shadow: 0 2px 7px rgba(0,0,0,0.3);
 }
 .navbar-brand {
   font-size: 0;
