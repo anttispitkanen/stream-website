@@ -290,6 +290,105 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/speakers\/eran-yarkoni.jpg": {
+		"ft": 16384,
+		"iS": 37266,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/eran-yarkoni.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/gideon-ben-zvi.jpg": {
+		"ft": 16384,
+		"iS": 20517,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/gideon-ben-zvi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/juho-toivola.jpg": {
+		"ft": 16384,
+		"iS": 32174,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/juho-toivola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/matti-copeland.jpg": {
+		"ft": 16384,
+		"iS": 20236,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/matti-copeland.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/ossi-nurminen.jpg": {
+		"ft": 16384,
+		"iS": 40115,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/ossi-nurminen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/pauli-kuosmanen.jpg": {
+		"ft": 16384,
+		"iS": 30289,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/pauli-kuosmanen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/reetu-kainulainen.jpg": {
+		"ft": 16384,
+		"iS": 24246,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/reetu-kainulainen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/tamir-huberman.jpg": {
+		"ft": 16384,
+		"iS": 26472,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/tamir-huberman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/speakers\/will-cardwell.jpg": {
+		"ft": 16384,
+		"iS": 25611,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/will-cardwell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/sponsors\/6aika.png": {
 		"ft": 32768,
 		"iS": 12710,
