@@ -616,3 +616,14 @@ ul.nolist {
     color: #fff !important;
   }
 }
+.dropdown-menu.show {
+  background: #1c1613;
+  color: #fff;
+}
+.dropdown-menu.show a {
+  color: #fff;
+}
+.dropdown-menu.show a:hover {
+  background: #f77a2c;
+  color: #1c1613;
+}
