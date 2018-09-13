@@ -290,6 +290,27 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/some\/youtube.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/some\/youtube.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/speakers\/atanas-gotchev.jpg": {
+		"ft": 16384,
+		"iS": 25419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/speakers\/atanas-gotchev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/speakers\/eran-yarkoni.jpg": {
 		"ft": 16384,
 		"iS": 37266,
@@ -411,6 +432,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/sponsors\/booming.jpg": {
+		"ft": 16384,
+		"iS": 12454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/booming.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/sponsors\/businessfinland.jpg": {
 		"ft": 16384,
 		"iS": 26128,
@@ -442,6 +474,17 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sponsors\/civic.jpg": {
+		"ft": 16384,
+		"iS": 21780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/civic.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/sponsors\/euflag.png": {
@@ -543,6 +586,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/sponsors\/storaenso.jpg": {
+		"ft": 16384,
+		"iS": 56101,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/sponsors\/sotraenso.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/sponsors\/tampere.png": {
 		"ft": 32768,
 		"iS": 26403,
@@ -554,7 +608,7 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/sponsors\/tampere3.PNG": {
+	"\/img\/sponsors\/tampere3.png": {
 		"ft": 32768,
 		"iS": 4721,
 		"oA": 0,
@@ -717,11 +771,29 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/wheretostay\/scandic.png": {
+		"ft": 32768,
+		"iS": 10890,
+		"oA": 0,
+		"oAP": "\/img\/wheretostay\/scandic.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/investor-pre-event\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/investor-pre-event\/index.html",
 		"oF": 0
 		},
 	"\/js\/creative.js": {
