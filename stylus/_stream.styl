@@ -30,9 +30,17 @@ span.keep
 h3
   margin-top: 1.3em; margin-bottom: 0.5em;
 
-
 .img-responsive
   max-width: 100%
+
+
+.card
+  color: white
+  background: rgba(0,0,0,0.8)
+  border: 2px solid color-primary
+  border-radius: 0
+  padding-top: 1em
+
 
 #tickets
   background-image: url(../img/photo-1.jpg)
@@ -131,12 +139,6 @@ ul.nolist
   margin: 0
   padding: 0
 
-.program-item-block
-  padding-left: 2em
-  margin-top: 2em
-  h5
-    color: color-primary
-
 
 
 .btn-primary
@@ -200,13 +202,23 @@ ul.nolist
 
 
 .program
+  section
+    padding: 60px 0
   h1
     font-size: 3.3rem
     margin-bottom: 2.4rem
     @media(min-width: 768px)
       font-size: 4.3rem
       margin-bottom: 2.4rem
+  .program-item-block
+    padding: 0.7rem
+    h5
+      color: color-primary
+
+
+
 #speakers
+  padding: 100px 0 80px
   h1
     margin-bottom: 40px
   .speaker-box

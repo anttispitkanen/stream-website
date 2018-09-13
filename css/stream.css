@@ -37,11 +37,20 @@ h6 {
 }
 .bg-header {
   background-color: #000 !important;
+  color: #fff;
 }
 .bg-dark {
   background-color: #212529 !important;
+  color: #fff;
 }
 .bg-dark a {
+  color: #f77a2c;
+}
+.bg-dark2 {
+  background-color: #111 !important;
+  color: #fff;
+}
+.bg-dark2 a {
   color: #f77a2c;
 }
 .text-faded {
@@ -337,6 +346,13 @@ h3 {
 .img-responsive {
   max-width: 100%;
 }
+.card {
+  color: #fff;
+  background: rgba(0,0,0,0.8);
+  border: 2px solid #f77a2c;
+  border-radius: 0;
+  padding-top: 1em;
+}
 #tickets {
   background-image: url("../img/photo-1.jpg");
   background-position: center center;
@@ -440,13 +456,6 @@ ul.nolist {
   margin: 0;
   padding: 0;
 }
-.program-item-block {
-  padding-left: 2em;
-  margin-top: 2em;
-}
-.program-item-block h5 {
-  color: #f77a2c;
-}
 .btn-primary {
   margin-top: 1em;
   margin-bottom: 3em;
@@ -514,6 +523,9 @@ ul.nolist {
   background: #f77a2c;
   text-decoration: none;
 }
+.program section {
+  padding: 60px 0;
+}
 .program h1 {
   font-size: 3.3rem;
   margin-bottom: 2.4rem;
@@ -523,6 +535,15 @@ ul.nolist {
     font-size: 4.3rem;
     margin-bottom: 2.4rem;
   }
+}
+.program .program-item-block {
+  padding: 0.7rem;
+}
+.program .program-item-block h5 {
+  color: #f77a2c;
+}
+#speakers {
+  padding: 100px 0 80px;
 }
 #speakers h1 {
   margin-bottom: 40px;
