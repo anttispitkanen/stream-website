@@ -608,6 +608,14 @@ ul.nolist {
   width: 100%;
   max-width: 210px;
 }
+@media (max-width: 767px) {
+  #speakers .sponsor-item img {
+    max-width: 170px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+}
 .workshop-item {
   padding: 1.4em 0 0.6em;
 }
