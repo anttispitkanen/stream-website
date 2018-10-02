@@ -536,11 +536,36 @@ ul.nolist {
     margin-bottom: 2.4rem;
   }
 }
-.program .program-item-block {
-  padding: 0.7rem;
+.program .table h5 {
+  color: #f77a2c;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+}
+.program .table p {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+.program .table th {
+  width: 150px;
+}
+@media (max-width: 767px) {
+  .program .table th {
+    width: 100px;
+  }
 }
 .program .program-item-block h5 {
   color: #f77a2c;
+  margin-bottom: 0.5em;
+}
+.program .program-logo {
+  width: 300px;
+  max-width: 70%;
+  margin: 0 auto 1.5em auto;
+  display: block;
+}
+.program .header {
+  border-top: 1px solid #333;
+  padding: 30px 1rem;
 }
 #speakers {
   padding: 100px 0 80px;
@@ -625,10 +650,6 @@ ul.nolist {
 }
 .workshop-item p {
   padding-left: 1rem;
-}
-.program .header {
-  border-top: 1px solid #333;
-  padding: 30px 0;
 }
 .navbar-brand {
   font-size: 0;

@@ -7,7 +7,7 @@
 		"uuidString": "3C72BEEE-F0E9-47C4-B4CC-EF82A172DBDC"
 		}
 	],
-"creatorBuild": "28795",
+"creatorBuild": "28901",
 "files": {
 	"/CNAME": {
 		"cB": 0,
@@ -74,6 +74,13 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/hiedanranta/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/hiedanranta/index.html",
+		"oF": 0
+		},
 	"/img/dealroom.png": {
 		"ft": 32768,
 		"iS": 15795,
@@ -94,6 +101,50 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/img/hiedanranta/bybike.jpg": {
+		"ft": 16384,
+		"iS": 43297,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/hiedanranta/bybike.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/hiedanranta/bybike2.jpg": {
+		"ft": 16384,
+		"iS": 29643,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/hiedanranta/bybike2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/hiedanranta/bybus.jpg": {
+		"ft": 16384,
+		"iS": 31506,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/hiedanranta/bybus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/hiedanranta/bycar.png": {
+		"ft": 32768,
+		"iS": 207893,
+		"oA": 0,
+		"oAP": "/img/hiedanranta/bycar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/img/photo-1.jpg": {
@@ -248,6 +299,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/program/tampere-pitching-competition-20finalists.jpg": {
+		"ft": 16384,
+		"iS": 59215,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/program/tampere-pitching-competition-20finalists.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/some/facebook.svg": {
@@ -456,7 +518,7 @@
 		},
 	"/img/speakers/mikko-pohjola.jpg": {
 		"ft": 16384,
-		"iS": 12676,
+		"iS": 11524,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/speakers/mikko-pohjola.jpg",
@@ -467,7 +529,7 @@
 		},
 	"/img/speakers/neve-gull.jpg": {
 		"ft": 16384,
-		"iS": 46313,
+		"iS": 48997,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/speakers/.neve-gull~imageoptim.jpg",
@@ -641,6 +703,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/sponsors/danske.png": {
+		"ft": 32768,
+		"iS": 7161,
+		"oA": 0,
+		"oAP": "/img/sponsors/danske.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/sponsors/euflag.png": {
 		"ft": 32768,
 		"iS": 12617,
@@ -663,6 +736,39 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/sponsors/fiban-nega.png": {
+		"ft": 32768,
+		"iS": 8497,
+		"oA": 0,
+		"oAP": "/img/sponsors/fiban-nega.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/sponsors/filmloop.png": {
+		"ft": 32768,
+		"iS": 5111,
+		"oA": 0,
+		"oAP": "/img/sponsors/filmloop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/sponsors/framery.png": {
+		"ft": 32768,
+		"iS": 3521,
+		"oA": 0,
+		"oAP": "/img/sponsors/framery.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/sponsors/gylling.png": {
 		"ft": 32768,
 		"iS": 12853,
@@ -672,6 +778,17 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/sponsors/hene.jpg": {
+		"ft": 16384,
+		"iS": 19744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/sponsors/hene.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/sponsors/leveragefromeu.png": {
@@ -828,6 +945,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/sponsors/Thumbs.db": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/sponsors/Thumbs.db",
+		"oF": 0
+		},
 	"/img/sponsors/tribetampere.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -846,6 +970,28 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/sponsors/vauvideo.jpg": {
+		"ft": 16384,
+		"iS": 9916,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/sponsors/vauvideo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/sponsors/yle.png": {
+		"ft": 32768,
+		"iS": 4268,
+		"oA": 0,
+		"oAP": "/img/sponsors/yle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

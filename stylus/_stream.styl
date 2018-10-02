@@ -210,11 +210,30 @@ ul.nolist
     @media(min-width: 768px)
       font-size: 4.3rem
       margin-bottom: 2.4rem
-  .program-item-block
-    padding: 0.7rem
+  .table
     h5
       color: color-primary
-
+      margin-bottom: 0
+      font-size: 1.1rem
+    p
+      margin-bottom: 0.5rem
+      margin-top: 0.5rem
+    th
+      width: 150px
+      @media(max-width: 767px)
+        width: 100px
+  .program-item-block
+    h5
+      color: color-primary
+      margin-bottom: 0.5em
+  .program-logo
+    width: 300px
+    max-width: 70%
+    margin: 0 auto 1.5em auto
+    display: block
+  .header
+    border-top: 1px solid #333
+    padding: 30px 1rem
 
 
 #speakers
@@ -293,7 +312,3 @@ ul.nolist
     padding-left: 1rem
   p
     padding-left: 1rem
-
-.program .header
-  border-top: 1px solid #333
-  padding: 30px 0
