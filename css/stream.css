@@ -651,6 +651,24 @@ ul.nolist {
 .workshop-item p {
   padding-left: 1rem;
 }
+#venue .contrast {
+  color: #f77a2c;
+}
+#venue hr {
+  margin-top: 2.4em;
+}
+#venue .youtube-video {
+  margin-bottom: 6em;
+}
+#venue .youtube-video iframe {
+  width: 100%;
+  margin-top: 3em;
+}
+@media (max-width: 767px) {
+  .small-mt-5 {
+    margin-top: 5em;
+  }
+}
 .navbar-brand {
   font-size: 0;
   display: block;

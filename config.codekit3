@@ -74,13 +74,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/hiedanranta/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/hiedanranta/index.html",
-		"oF": 0
-		},
 	"/img/dealroom.png": {
 		"ft": 32768,
 		"iS": 15795,
@@ -301,6 +294,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/program/maki-vc.png": {
+		"ft": 32768,
+		"iS": 9176,
+		"oA": 0,
+		"oAP": "/img/program/maki-vc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/program/tampere-pitching-competition-20finalists.jpg": {
 		"ft": 16384,
 		"iS": 59215,
@@ -384,6 +388,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/speakers/donna-kivirauma.jpg": {
+		"ft": 16384,
+		"iS": 42034,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/donna-kivirauma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/speakers/eran-yarkoni.jpg": {
 		"ft": 16384,
 		"iS": 37266,
@@ -437,6 +452,17 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/speakers/jari-pajasmaa.jpg": {
+		"ft": 16384,
+		"iS": 29170,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/jari-pajasmaa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/speakers/jonne-kuittinen.jpg": {
@@ -544,6 +570,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/speakers/ossi-numminen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/speakers/paavo-raisanen.jpg": {
+		"ft": 16384,
+		"iS": 49228,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/paavo-raisanen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -834,6 +871,27 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/img/sponsors/op-logo.png": {
+		"ft": 32768,
+		"iS": 3369,
+		"oA": 0,
+		"oAP": "/img/sponsors/op-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/sponsors/op-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/sponsors/op-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/img/sponsors/pirkanmaa.jpg": {
 		"ft": 16384,
@@ -2053,6 +2111,13 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/venue/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/venue/index.html",
+		"oF": 0
 		}
 	},
 "hooks": [
