@@ -642,7 +642,7 @@ ul.nolist {
   }
 }
 .workshop-item {
-  padding: 1.4em 0 0.6em;
+  padding: 0.6em 0 0.6em;
 }
 .workshop-item h6 {
   color: #f77a2c;
@@ -667,6 +667,30 @@ ul.nolist {
 @media (max-width: 767px) {
   .small-mt-5 {
     margin-top: 5em;
+  }
+}
+@media (max-width: 767px) {
+  .program .table th {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    border-top: none;
+    border-bottom: 1px solid #444;
+  }
+  .program .table td {
+    border-top: none;
+    padding-left: 4em;
+  }
+  .program .table tr {
+    display: block;
+    width: 100%;
+    margin-top: 2em;
+    border-top: 1px solid #f77a2c;
+  }
+}
+@media (min-width: 768px) {
+  .program .workshop-table th {
+    padding-top: 1.3rem;
   }
 }
 .navbar-brand {

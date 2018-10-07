@@ -366,6 +366,28 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/img/speakers/amel-gaily.jpg": {
+		"ft": 16384,
+		"iS": 70850,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/amel-gaily.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/speakers/antti-vuolli.jpg": {
+		"ft": 16384,
+		"iS": 37435,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/antti-vuolli.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/speakers/arto-metsanen.jpg": {
 		"ft": 16384,
 		"iS": 61693,
@@ -430,6 +452,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/img/speakers/heini-wallander.jpg": {
+		"ft": 16384,
+		"iS": 31965,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/heini-wallander.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/speakers/henna-riikka-ruotsalainen.jpg": {
@@ -509,12 +542,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/speakers/kristian-stolt.jpg": {
+		"ft": 16384,
+		"iS": 35503,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/kristian-stolt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/speakers/lasse-lehtinen.jpg": {
 		"ft": 16384,
 		"iS": 36653,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/speakers/lasse-lehtinen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/speakers/lauri-lehtovuori.jpg": {
+		"ft": 16384,
+		"iS": 49823,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/lauri-lehtovuori.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -597,6 +652,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/speakers/perttu-kroger.jpg": {
+		"ft": 16384,
+		"iS": 32085,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/perttu-kroger.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/speakers/peter-bos.jpg": {
 		"ft": 16384,
 		"iS": 14488,
@@ -641,6 +707,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/speakers/tiina-sahakari.jpg": {
+		"ft": 16384,
+		"iS": 32512,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/tiina-sahakari.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/speakers/tommi-pajala.jpg": {
 		"ft": 16384,
 		"iS": 40790,
@@ -661,6 +738,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/img/speakers/yulia-nesterenko.jpg": {
+		"ft": 16384,
+		"iS": 36527,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/speakers/yulia-nesterenko.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/sponsors/6aika.png": {
@@ -990,6 +1078,17 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/sponsors/tays.jpg": {
+		"ft": 16384,
+		"iS": 15839,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/sponsors/tays.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/sponsors/thehub.png": {
