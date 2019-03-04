@@ -4,7 +4,7 @@ html {
   height: 100%;
 }
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
   max-width: 50px;
@@ -83,7 +83,7 @@ img::-moz-selection {
 #mainNav {
   border-bottom: 1px solid rgba(33,37,41,0.1);
   background-color: transparent;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -92,7 +92,7 @@ img::-moz-selection {
   font-weight: 700;
   text-transform: uppercase;
   color: #f05f40;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
@@ -243,7 +243,7 @@ header.masthead p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
   padding: 0 15px;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
   font-size: 14px;
@@ -275,7 +275,7 @@ header.masthead p {
   text-transform: uppercase;
   border: none;
   border-radius: 300px;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 .btn-xl {
   padding: 1rem 2rem;
@@ -308,6 +308,10 @@ header.masthead p {
     padding: 2em;
     margin: 2em 0;
   }
+}
+body {
+  min-height: 600px;
+  background: #000;
 }
 .white {
   color: #fff;
@@ -359,7 +363,7 @@ h3 {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: 'IBM Plex Mono', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'IBM Plex Mono', 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.9rem;
 }
 #tickets .spacer {
@@ -393,7 +397,7 @@ h3 {
   color: #f77a2c;
 }
 #tickets .btn-buy {
-  font-family: 'IBM Plex Mono', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'IBM Plex Mono', 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
   letter-spacing: 1px;
   background: rgba(0,0,0,0.9);
   border: 1px solid #f77a2c;
@@ -472,7 +476,7 @@ ul.nolist {
   margin: 1.2rem;
 }
 #socialmedia .some-icons a img {
-  width: 40px;
+  width: 30px;
 }
 @media (min-width: 768px) {
   #socialmedia .some-icons {
@@ -481,7 +485,7 @@ ul.nolist {
   }
 }
 #team {
-  font-family: 'IBM Plex Mono', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'IBM Plex Mono', 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.9rem;
 }
 #team .spacer {
@@ -691,6 +695,79 @@ ul.nolist {
 @media (min-width: 768px) {
   .program .workshop-table th {
     padding-top: 1.3rem;
+  }
+}
+.masthead hr {
+  background: transparent;
+  color: transparent;
+  border-color: transparent;
+}
+.comingagain h2 {
+  font-family: "Work Sans", sans-serif;
+  color: #f77a2c;
+  font-size: 3em;
+  margin: 0;
+  padding: 0;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.comingagain h3 {
+  font-weight: 400;
+  font-size: 1.4rem;
+  margin: 0 0 0.2rem 0;
+  padding: 0;
+}
+.comingagain h4 {
+  font-weight: 400;
+  font-size: 1.4rem;
+  margin: 0.2em 0 0 0;
+  padding: 0;
+}
+#socialmedia {
+  background: transparent;
+}
+@media (min-height: 799px) {
+  #socialmedia {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+  }
+}
+@media (max-height: 800px) {
+  #socialmedia {
+    padding-top: 3em;
+  }
+}
+#socialmedia svg:hover path {
+  fill: #f00;
+}
+@media (max-width: 767px) {
+  #contact {
+    text-align: center;
+    margin-bottom: 2em;
+  }
+  #contact a {
+    color: #f77a2c;
+    font-size: 1.2rem;
+    font-weight: 800;
+    padding: 1em;
+  }
+}
+@media (min-width: 768px) {
+  #contact {
+    position: fixed;
+    right: 0;
+    top: 49%;
+  }
+  #contact a {
+    color: #f77a2c;
+    font-size: 1.2rem;
+    font-weight: 800;
+    padding: 1em;
+    background: #000;
+  }
+  #contact a:hover {
+    text-decoration: none;
   }
 }
 .navbar-brand {
