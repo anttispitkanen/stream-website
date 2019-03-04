@@ -82,6 +82,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/header-bg.jpg": {
+		"ft": 16384,
+		"iS": 140944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/header-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/hiedanranta/bybike.jpg": {
 		"ft": 16384,
 		"iS": 43297,
@@ -1348,6 +1359,58 @@
 		"oA": 0,
 		"oAP": "/program/wheretostay/index.html",
 		"oF": 0
+		},
+	"/stylus/_creative.styl": {
+		"aP": 0,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/stylus/_creative.css",
+		"oF": 0,
+		"oS": 0,
+		"rrU": 0
+		},
+	"/stylus/_nav.styl": {
+		"aP": 0,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/stylus/_nav.css",
+		"oF": 0,
+		"oS": 0,
+		"rrU": 0
+		},
+	"/stylus/_variables.styl": {
+		"aP": 0,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/stylus/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"rrU": 0
+		},
+	"/stylus/stream.styl": {
+		"aP": 0,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/stylus/stream.css",
+		"oF": 0,
+		"oS": 0,
+		"rrU": 0
 		},
 	"/team/index.html": {
 		"cB": 0,
